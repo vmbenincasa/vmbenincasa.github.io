@@ -1,3 +1,5 @@
-Hello, I'm a programmer from Brazil that works with game design and development, 3D modeling, animation and texturing.
+Hello, I'm a programmer from Brazil.
+
+My main current active project is a JRPG-Style game being developed in Unity .
 
 You can reach me at: viniciusbenincasa@gmail.com
